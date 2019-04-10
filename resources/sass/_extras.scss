@@ -1,0 +1,106 @@
+html, body {
+    background-image: url('../../public/imgs/businesslistings-bg1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    height: 100vh;
+
+}
+
+.navbar {
+    background-color: #0C579F !important;
+}
+
+.full-height {
+    height: 100vh;
+}
+
+.flex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.position-ref {
+    position: relative;
+}
+
+.top-right {
+    position: absolute;
+    right: 10px;
+    top: 18px;
+}
+
+.content {
+    text-align: center;
+    color: #c1c1c1;
+}
+
+.title {
+    font-size: 84px;
+}
+
+.links > a:hover {
+    text-decoration: none;
+    color: lightgray;
+}
+.links > a {
+    color: #fefefe;
+    padding: 0 25px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.m-b-md {
+    margin-bottom: 30px;
+}
+
+.features {
+    list-style: none;
+}
+
+.error-page {
+    list-style: none;
+    color: black;
+    text-align: center;
+}
+
+.error-page > ul {
+    color: white;
+    list-style:  none;
+
+}
+
+ul.error-ul {
+    list-style: none;
+}
+
+#error-card {
+    margin-bottom: 5rem;
+    color: black
+
+}
+
+h4.card-title {
+    color: red;
+}
+
+h3.card-header {
+    background-color: red;
+    color:white;
+}
+.security {
+    text-align: center;
+    font-size: x-small;
+    line-height: 2em;
+}
+
+
+.footer {
+    text-align: center;
+    color: #fefefe;
+    padding: 2rem;
+}
