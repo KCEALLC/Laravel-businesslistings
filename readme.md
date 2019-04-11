@@ -26,6 +26,7 @@ Registered users can create, modify and delete only the listings that they have 
             <li>Save Business Listings to Database</li>
             <li>Listings editable only by creator</li>
 
+
 ![Business Listings](public/images/create-businesslisting.jpg )
 
 ## More Information ##
