@@ -31,7 +31,7 @@ Registered users can create, modify and delete only the listings that they have 
 
 ## More Information ##
 Live demo can be viewed here: 
-[Business Listings Demo](https://)
+[Business Listings Demo](https://businesslistings.kcenglishacademy.com)
 
 This app was create for educational purposes. Information found or entered on this website is for testing only.
 
