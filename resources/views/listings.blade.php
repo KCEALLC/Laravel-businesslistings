@@ -5,7 +5,7 @@
     <div class="col-md-8">
         <div class="card">
             @guest
-            <div class="card-header">Latest Business Listings <span class="float-right"><a href="/" class="btn
+            <div class="card-header">Latest Business Listings <span class="float-right"><a href="/index.php" class="btn
             btn-outline-secondary btn-xs" title="Back">&#8617;</a></span></div>
             @endguest
             <div class="card-header">Latest Business Listings</div>
