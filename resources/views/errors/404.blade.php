@@ -14,7 +14,7 @@
                     <ul class="error-ul">
                         <li>Please the url or click below to return to the main
                             page.</li>
-                            <li><a class="btn btn-success btn-sm p-2 m-3" href="/listings"  role="button">View
+                            <li><a class="btn btn-success btn-sm p-2 m-3" href="/index.php/listings"  role="button">View
                                     Listings</a></li>
                     </ul>
                 </div>
