@@ -18,7 +18,8 @@
                 @if(count($listings))
                         <ul class="list-group">
                             @foreach($listings as $listing)
-                                <li class="list-group-item"><a href="/listings/{{  trim(urldecode($listing->id))
+                                <li class="list-group-item"><a href="/index.php/listings/{{  trim(urldecode
+                                ($listing->id))
                                 }}">{{  $listing->name  }}</a></li>
                             @endforeach
                         </ul>
