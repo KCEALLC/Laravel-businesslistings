@@ -4,7 +4,7 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
-                <div class="card-header">{{  $listing->name  }} <a href="/listings" class="float-right btn
+                <div class="card-header">{{  $listing->name  }} <a href="/index.php/listings" class="float-right btn
                 btn-outline-secondary btn-xs">&#8617;</a></div>
 
                 <div class="card-body">
