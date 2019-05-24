@@ -18,7 +18,8 @@
             <li>Custom Error Page</li>
             <li>Save Business Listings to Database</li>
             <li>Listings editable only by creator</li>
-            <li><a class="btn btn-success btn-sm p-2 m-3" href="/listings"  role="button">View Listings</a></li>
+            <li><a class="btn btn-success btn-sm p-2 m-3" href="/index.php/listings"  role="button">View
+                    Listings</a></li>
         </ul>
         <h5>Important Notice</h5>
         <section class="security">
